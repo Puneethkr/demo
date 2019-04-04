@@ -1,1 +1,3 @@
-class a{}
+class a{
+private int mob;
+}
